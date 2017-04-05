@@ -4,3 +4,4 @@ server:
 user:
   sname : lili
   age : 18
+spring.jpa.hibernate.ddl-auto=create-drop
