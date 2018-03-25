@@ -1,7 +1,0 @@
-server:
-  port: 8088
-
-user:
-  sname : lili
-  age : 18
-spring.jpa.hibernate.ddl-auto=create-drop
